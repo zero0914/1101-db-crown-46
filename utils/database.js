@@ -12,13 +12,13 @@ if (isProduction) {
   pool = new Pool({
   user: 'postgres',
   host: 'localhost',
-  database: 'crown46',
+  database: 'crown_46',
   password: '0000',
   port: 5432,
 });
 }
 
-// pool.query('SELECT * from category', (err, res) => {
+// pool.query('SELECT * from category_46', (err, res) => {
 //   console.log(JSON.stringify (res.rows))
 //   pool.end()
 // });
