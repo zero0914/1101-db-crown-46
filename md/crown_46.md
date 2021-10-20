@@ -1,4 +1,5 @@
-#First
+# First
+
 ![](https://i.imgur.com/IFnt1Lm.png)
 
 **index.ejs**
@@ -32,7 +33,8 @@ router.get('/', function (req, res, next) {
 
 ---
 
-#Second
+# Second
+
 ![](https://i.imgur.com/zn5Dw86.png)
 **crown.ejs**
 
@@ -64,17 +66,21 @@ module.exports = router;
 
 ---
 
-#Third
+# Third
+
 ![](https://i.imgur.com/sqv9rUn.png)
+[Github Repo URL](https://github.com/zero0914/1101-db-crown-46)
 
 ---
 
-#Fourth
+# Fourth
+
 ![](https://i.imgur.com/XMQEsz4.png)
 
 ---
 
-#Fifth
+# Fifth
+
 ![](https://i.imgur.com/AeTCeUp.png)
 **database.js**
 
@@ -98,3 +104,7 @@ module.exports = pool;
 ```
 
 ---
+
+# Sixth
+
+# Seventh
