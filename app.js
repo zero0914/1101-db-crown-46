@@ -32,7 +32,7 @@ app.use('/', indexRouter);
 app.use('/crown_46', crown_46_Router);
 app.use('/crown2_46', crown2_46_Router);
 app.use('/users', usersRouter);
-app.use('/api_46', api_46_Router)
+app.use('/api_46',cors() , api_46_Router)
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
